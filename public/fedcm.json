@@ -1,0 +1,6 @@
+{
+    "accounts_endpoint": "https://fedcm.digitalart.hamburg/fedcm/accounts_endpoint",
+    "client_id_metadata_endpoint": "https://fedcm.digitalart.hamburg/fedcm/client_id_metadata_endpoint",
+    "idtoken_endpoint": "https://fedcm.digitalart.hamburg/fedcm/token_endpoint",
+    "revocation_endpoint": "https://fedcm.digitalart.hamburg/fedcm/revocation_endpoint"
+}

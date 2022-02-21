@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "sub": "2342346545635434",
+      "name": "Max Mustermann",
+      "given_name": "Max",
+      "email": "mm@web.de",
+      "picture": "https://fedcm.digitalart.hamburg/images/web.webp"
+    },
+    {
+      "sub": "3453342345324568563465678",
+      "name": "Hansi Himmler",
+      "given_name": "Hansi",
+      "email": "hansi@gmx.net",
+      "picture": "https://fedcm.digitalart.hamburg/images/HH.png"
+    }],
+    "branding": {
+      "background_color": "rgb(118, 184, 42)",
+      "foreground_color": "0xFFFFFF",
+      "icons": [{
+        "url": "https://fedcm.digitalart.hamburg/images/netid-round-green.ico",
+        "size": 32
+      }]
+    }
+}
